@@ -1,0 +1,11 @@
+com\projects\entities\Team.class
+com\projects\TeamBuilderApplication.class
+com\projects\dao\UserRepository.class
+com\projects\helperClasses\TeamDTO.class
+com\projects\web\TeamBuilderRestController.class
+com\projects\helperClasses\UserToBeAdded.class
+com\projects\service\ITeamService.class
+com\projects\dao\TeamRepository.class
+com\projects\service\ITeamServiceImpl.class
+com\projects\entities\User.class
+com\projects\helperClasses\TeamToBeAdded.class
